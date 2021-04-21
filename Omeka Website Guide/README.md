@@ -4,7 +4,7 @@ We decided to use Omeka to host CASPIANA's offical website because Harvard hosts
 # Sub-Folders
 - [Omeka Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/Omeka%20Guide)
 
-- [CSS Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20Guide)
+- [CSS and Html Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20Guide)
 
 - [Map Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/Map%20Guide)
 
