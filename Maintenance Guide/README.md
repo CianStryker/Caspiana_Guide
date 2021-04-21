@@ -1,10 +1,8 @@
 # Maintenance Guide for CASPIANA
 
 # Caspiana Recovery Guide
+If you were to completely lose the spreadsheet version of CASPIANA, there is a way to recover most of the information from the Omeka platform. I don't think this is likely to happen to you, but I am including some information on how to recover CASPIANA from Omeka in a sub-folder. 
 -[Recovery Guide]()
 
 
-# Help 
-Another reason we decided to use an Omeka platform that is hosted by Harvard is because [Academic Technology for the Faculty of Arts and Sciences](https://atg.fas.harvard.edu/) is available to help students and faculty with technical issues. 
 
-In creating CASPIANA I was helped by Hugh Truslow (truslow@fas.harvard.edu) in making the interactive map and Jeremy Guillette (jguillette@fas.harvard.edu) with writing some of the CSS and Html. If you can't figure something out, please feel free to contact them. 
