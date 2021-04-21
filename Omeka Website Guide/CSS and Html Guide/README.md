@@ -1,1 +1,2 @@
-# CSS Guide
+# CSS and Html Guide
+In order to customize CASPIANA's Omeka site, I use CSS in the CSS Editor Plugin and Html editors for most pages in the site. There are two separate R markdown files included here where I write the code I use for the CSS plugin and the html I wrote for most pages. Each page includes code comments that explain most of what I have done. In general, if you have issues with either CSS or Html, googling the issue may help you figure it out. If you are really stuck, however, you should reach out to Jeremy Guillette (jguillette@fas.harvard.edu). 
