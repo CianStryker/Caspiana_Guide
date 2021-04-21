@@ -12,6 +12,9 @@ Whether you get new information from that form or from other places, you should 
 - Fourth: Add/Update an Omeka item so that it can be found by users through the search bar
 
 
+# Recovery Guide
+If for some reason you completely lose CASPIANA's spreadsheet version you recover most of the information by exporting the information from Omeka. This process is somewhat complicated and requires a fair amount of data organizing and cleaning. See the [Recovery Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Maintenance%20Guide/Recovery%20Guide) for details. 
+
 
 
 
