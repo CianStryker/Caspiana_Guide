@@ -11,4 +11,6 @@ We decided to use Omeka to host CASPIANA's offical website because Harvard hosts
 -[Images]()
 
 # Help 
-Another reason we decided to use Omeka hosted by Harvard is because [Academic Technology for the Faculty of Arts and Sciences](https://atg.fas.harvard.edu/) is available to help students and faculty with technical issues. In creating CASPIANA I was helped by Hugh Truslow (truslow@fas.harvard.edu) in making the interactive map and Jeremy Guillette (jguillette@fas.harvard.edu) with writing some of the CSS and Html. If you can't figure something out, please feel free to contact them. 
+Another reason we decided to use Omeka hosted by Harvard is because [Academic Technology for the Faculty of Arts and Sciences](https://atg.fas.harvard.edu/) is available to help students and faculty with technical issues. 
+
+In creating CASPIANA I was helped by Hugh Truslow (truslow@fas.harvard.edu) in making the interactive map and Jeremy Guillette (jguillette@fas.harvard.edu) with writing some of the CSS and Html. If you can't figure something out, please feel free to contact them. 
