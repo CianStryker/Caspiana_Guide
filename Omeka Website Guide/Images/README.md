@@ -1,2 +1,4 @@
 # Images for CASPIANA
 In this folder simply included the images used in CASPIANA's Omeka website. The Caspiana logo and header are listed as "caspiana_logo.jpg" and "caspiana_header.jpg" respectively. I also included the adobe illustrator version of the header if you would like to make changes directly in that platform. I also included the Davis Center's logo as well, which is located in the footer of every page in the website. All flag images can also be found in the "Flags" folder. 
+
+In order to insert images into CASPIANA you need an image's url. When you upload an image into Omeka, it recieves a url. Simply click on the image's item on the admin side of Omeka, click on the image again, then click on it once again, and then you should see the image with a black background. Once you see the background, you can copy that window's url and insert it into the html editor for any page in Omeka. 
