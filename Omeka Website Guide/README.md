@@ -3,8 +3,11 @@ We decided to use Omeka to host CASPIANA's offical website because Harvard hosts
 
 # Omeka Website Guide Sub-Folders
 -[Omeka Guide]()
+
 -[CSS Guide]()
+
 -[Map Guide]()
+
 -[Images]()
 
 # Help 
