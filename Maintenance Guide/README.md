@@ -1,7 +1,7 @@
 # Maintenance Guide for CASPIANA
 CASPIANA is obviously an unfinished product and will need to be updated and expanded periodically. The website has a contribution form that you should check occasionally to see if anyone has submitted additional information. The google form that collects those submissions is tied to CASPIANA's email address. Assuming you are logged into the email address, you can access the google form [here](https://docs.google.com/forms/u/2/). 
 
-Whether you get new information from that form or from other places, you should do the following to update CASPIANA. 
+Whether you get new information from that form or from other places, you should do the following to update CASPIANA: 
 
 - First: Add/Update the new source in the Google Drive
 
