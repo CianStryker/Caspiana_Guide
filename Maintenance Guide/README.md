@@ -3,10 +3,13 @@ CASPIANA is obviously an unfinished product and will need to be updated and expa
 
 Whether you get new information from that form or from other places, you should do the following to update CASPIANA. 
 
-First: Add/Update the new source in the Google Drive
-Second: Add/Update that source to the spreadsheet version
-Third: Copy that information and paste it into both the country's page as well as the subject page on the Omeka website. 
-Fourth: Add/Update an Omeka item so that it can be searched by users through the search bar. 
+- First: Add/Update the new source in the Google Drive
+- 
+- Second: Add/Update that source to the spreadsheet version
+- 
+- Third: Copy that information and paste it into both the country's page as well as the subject page on the Omeka website. 
+- 
+- Fourth: Add/Update an Omeka item so that it can be searched by users through the search bar. 
 
 
 # Caspiana Recovery Guide
