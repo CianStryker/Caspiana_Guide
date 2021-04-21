@@ -6,8 +6,8 @@ Caspiana is maintained in three forms: in an Omeka Website, in Google Docs, and 
 CASPIANA can be seen [here](https://caspiana.omeka.fas.harvard.edu/)
 
 # Repoository Guide
-- Omeka Website Guide
-- Google Drive Guide
-- Spreadsheet Guide
-- Maintenance Guide 
+- [Omeka Website Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide)
+- [Google Drive Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Google%20Drive%20Guide)
+- [Spreadsheet Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Spreadsheet%20Guide)
+- [Maintenance Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Maintenance%20Guide)
 
