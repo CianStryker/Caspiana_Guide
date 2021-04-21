@@ -1,1 +1,2 @@
-# Images
+# Images for CASPIANA
+In this folder of the rep I simply included the images used in CASPIANA's Omeka website. The Caspiana logo and header are listed as "caspiana_logo.jp" and "caspiana_header.jpg" respectively. I also included the adobe illustrator version of the header if you would like to make changes directly in that platform. I also included the Davis Center's logo as well, which is located in the footer of every page in the website. All map images can also be found in the map folder. 
