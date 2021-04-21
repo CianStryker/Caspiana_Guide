@@ -9,7 +9,9 @@ Whether you get new information from that form or from other places, you should 
 
 - Third: Copy that information and paste it into both the country's page as well as the subject page on the Omeka website. 
 
-- Fourth: Add/Update an Omeka item so that it can be searched by users through the search bar. 
+- Fourth: Add/Update an Omeka item so that it can be searched by users through the search bar
+
+
 
 
 # Caspiana Recovery Guide
