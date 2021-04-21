@@ -1,13 +1,16 @@
 # Omeka Guide
-In our website we use a few specific features to build the  site. We use exhibits, simple pages, and items. Alongside these categories, we also use the default homepage given by the "DH @ Harvard" theme and a few plugins to customize the experience. 
+In our website we use a few specific features to build the  site. We use exhibits, simple pages, and items. Alongside these categories, we also use the default homepage provided by Omeka and a few plugins to customize the experience. The overall appearance of any Omeka site is decided by its "Theme". We use the "DH @ Harvard" theme for our website, although we have heavily customized it. 
 
 # Exhbits & Simple Pages
+We use Exhibit pages for most of the website. There are Exhibit pages for Media, Governance, Statistics, Academic Resources, and all eight countries. Each Exhibit page has sub-pages and each page can have separate blocks. The way CASPIANA is built, each Subject Exhibit Page is divided into either country sub-pages or thematic subpages. We use Text Blocks for all subpages though. You paste in the descriptions, titles, and links from the Google Drive or the spreadsheet version in these blocks. In general, if your item has a description, you should paste in from the Google Drive. If your item is just a title with a url, then you should use the "Embedded Links" column from the spreadsheet (although you may want to copy/paste that column into a word doc and copy/paste again from that doc to another doc to lose the excel formatting). Each block also has an html editor, which you use to insert images or to insert breaks. See the [Html Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide) for details. 
+
+Simple pages are a little different from Exhibit pages and we use them to build the "Country List", "Contribution" and "About" pages. These are just pages that have a Text box with html editing options. Again, see the [Html Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide) for details on formatting for those pages.  
 
 # Items
+We also input all our information as "Items" within Omeka. This is what allows people to use the search bar to find information. In order to create Items in Omeka, you can either do it manually by inputting information or by using the CSV Import Plugin. I would recommend the latter and have included a small guide to using that plugin under the Plugins section of this page. Having our information recorded within the Blocks as text and also as Items on the backend helps us keep multiple versions of our information. Also, in order to insert any images into the website, you need to have those images included as items. 
 
 # Homepage
-
-# Themes
+The Homepage can be edited from the "Appearance" tab when you click on "Configure Theme". In this page, you can toggle the entire website's color scheme, its logo image, header image, footer, top bar navigation, color scheme, and the homepage's format itself. 
 
 # Plugins
 There are a variety of plugins available for Omeka to customize our site. All plugins can be installed, activated, or deactivated by clicking on the "Plugins" tab at the top of the admin page in Omeka. We used the following plugins: CSS Editor, CSV Import, Exhibit Builder, Harvard Key, Hide Elements, and Simple Pages. 
