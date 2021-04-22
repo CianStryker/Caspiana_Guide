@@ -1,2 +1,4 @@
 # Recovery Guide for CASPIANA
+If you have somehow lost CASPIANA's spreadsheet version altogether, you can recover it using the CSV Export Format plugin. This plugin simply adds an export function that can be found at the bottom of the Items page in Omeka (from the admin side). By clicking on "csv" you can download all items shown on the page and export them as a csv file. I have set the number of items visible to admins to 20, but in order to export all items you will need to see all items in the entire website on one page. To do this, click on the "Appearance" tabe and then click on "Settings". Under "Results Per Page (admin)" set the number to the number of items in CASPIANA. Then return to the Items page and click on the csv button at the bottom of the screen to export all items. 
 
+The csv export will likely be very messy and I recommend using a package like R to clean the data. 
