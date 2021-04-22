@@ -11,7 +11,7 @@ Whether you get new information from that form or from other places, you should 
 
 - Fourth: Add/Update an Omeka item so that it can be found by users through the search bar
 
-For example, if you recieve a new Kazakh media source you should first input that source into the "Media" google doc in the Google Drive, making sure to follow the formatting used for other sources. Then you should input that information into the Caspiana spreadsheet data. Third, copy the source from the Google Drive and paste it into Caspiana's website (both on the Media:Kazakhstan page, but also on the Kazakhstan:Media page). Finally, go to "Items" from the Admin side of Omeka to create a new item for this source so that users can find it via the search bar. 
+For example, if you recieve a new Kazakh media source you should first input that source into the "Media" google doc in the Google Drive, making sure to follow the formatting used for other sources. Then you should input that information into the Caspiana spreadsheet data. Third, copy the source from the Google Drive and paste it into Caspiana's website (both on the Media: Kazakhstan page, but also on the Kazakhstan: Media page). Finally, go to "Items" from the Admin side of Omeka to create a new item for this source so that users can find it via the search bar. 
 
 
 # Recovery Guide
