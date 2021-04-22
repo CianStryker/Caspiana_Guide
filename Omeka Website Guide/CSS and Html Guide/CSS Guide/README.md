@@ -14,9 +14,10 @@ Here “max-width: “indicates the pixel width of a device and all CSS code sho
 
 The CSS code for the website is listed below. I will use a hashtag and the color orange to mark lines where I am writing comments. If you were to copy paste code from this document into the editor, do not copy anything that starts with a # or is in orange. 
 
-# Desktop Version (Also Tablet landscape version)
+Desktop Version (Also Tablet landscape version)
+---
 
-# The code below simply removes the underlines from hyperlinks. 
+* The code below simply removes the underlines from hyperlinks. 
 
 a:link {
 text-decoration:none
