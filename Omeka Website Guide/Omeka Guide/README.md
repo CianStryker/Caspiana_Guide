@@ -16,7 +16,7 @@ The Homepage can be edited from the "Appearance" tab when you click on "Configur
 Tags are useful for organizing the website and allowing people to search by specific categories. Tags can be added when adding Items or they can be added directly in the "Tags" page of Omeka. In general, we use a variety of tags to organize the website, including country, subject, sub-category, etc. Every piece of information in CASPIANA has tags in the Omeka page, but tags are also included in the spreadsheet version as well. 
 
 # Plugins
-There are a variety of plugins available for Omeka to customize our site. All plugins can be installed, activated, or deactivated by clicking on the "Plugins" tab at the top of the admin page in Omeka. We used the following plugins: CSS Editor, CSV Import, Exhibit Builder, Harvard Key, Hide Elements, and Simple Pages. 
+There are a variety of plugins available for Omeka to customize our site. All plugins can be installed, activated, or deactivated by clicking on the "Plugins" tab at the top of the admin page in Omeka. We used the following plugins: CSS Editor, CSV Export Format, Exhibit Builder, Harvard Key, Hide Elements, Simple Pages, and CSV Import. 
 
 - The CSS Editor plugin is the most complicated of these plugins. Please see the [CSS and Html Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide) for more information. 
 
