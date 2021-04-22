@@ -23,7 +23,9 @@ library(tidyverse)
 # Assuming you have downloaded the csv data file and placed
 # it within your working directory (within the "Recovery Guide"
 # file if you just downloaded the whole repo from Github), you
-# can run the following code to pull that csv file into R 
+# can run the following code to pull that csv file into R. 
+
+# Make sure the csv file is named "export.csv". 
 
 Data <- read_csv("export.csv", col_types = cols(
                                 .default = col_logical(),
