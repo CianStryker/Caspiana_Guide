@@ -18,7 +18,9 @@ Tags are useful for organizing the website and allowing people to search by spec
 # Plugins
 There are a variety of plugins available for Omeka to customize our site. All plugins can be installed, activated, or deactivated by clicking on the "Plugins" tab at the top of the admin page in Omeka. We used the following plugins: CSS Editor, CSV Import, Exhibit Builder, Harvard Key, Hide Elements, and Simple Pages. 
 
-The CSS Editor plugin is the most complicated of these plugins and has its own sectin in the [repo](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide). The Exhibit Builder and Simple Pages plugins essentially allow you to use exhbits and simple pages. Harvard Key allows Harvard students to sign in as admins using thier Harvard credentials. And Hide Elements is useful for simplifying what information is available in the item pages. 
+The CSS Editor plugin is the most complicated of these plugins and has its own section in this [repository](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide). 
+
+The Exhibit Builder and Simple Pages plugins essentially allow you to use exhbits and simple pages. Harvard Key allows Harvard students to sign in as admins using thier Harvard credentials. And Hide Elements is useful for simplifying what information is available in the item pages. 
 
 The CSV Import plugin is very important because that is how you upload the spreadsheet version of CASPIANA into Omeka. When you want to input the spreadsheet version, first make sure it is saves as a csv file. Then use the CSV Import page in Omeka and simply choose that file on your computer. Check the "Automap Column Names to Elements" tage and make sure under "Select Item Type" you select website. Click on "Make All Items Public?" to simplify things later. Ignore everything else and hit next. 
 
