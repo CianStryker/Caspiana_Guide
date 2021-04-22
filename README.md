@@ -3,7 +3,7 @@ CASPIANA is product of Harvard University's Davis Center Program on Central Asia
 
 Caspiana is maintained in three forms: in an Omeka website, in a Google Drive, and in a Spreadsheet. Maintaining Caspiana requires you to update all three formats. The Omeka Website and the Spreadsheet both use some programming languages for maintainence and so those sections will include my code sheets and explanations. The Google Drive is more self-explanatory, but I will include some cursory information. The Mainteneance Guide is largely just a walkthrough of how to update the website, but I will also include information on how to export the Omeka website in an emergency. 
 
-CASPIANA can be seen [here](https://caspiana.omeka.fas.harvard.edu/)
+CASPIANA's website can be seen [here](https://caspiana.omeka.fas.harvard.edu/)
 
 # Repoository Guide
 - [Omeka Website Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide)
