@@ -18,7 +18,7 @@ Tags are useful for organizing the website and allowing people to search by spec
 # Plugins
 There are a variety of plugins available for Omeka to customize our site. All plugins can be installed, activated, or deactivated by clicking on the "Plugins" tab at the top of the admin page in Omeka. We used the following plugins: CSS Editor, CSV Import, Exhibit Builder, Harvard Key, Hide Elements, and Simple Pages. 
 
-- The CSS Editor plugin is the most complicated of these plugins and has its own section in this [repository](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide). 
+- The CSS Editor plugin is the most complicated of these plugins. Please see the [CSS and Html Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Omeka%20Website%20Guide/CSS%20and%20Html%20Guide) for more information. 
 
 - The CSV Export Format plugin can be used to export all items from CASPIANA's Omeka version as a csv file. See the [Recovery Guide](https://github.com/CianStryker/Caspiana_Guide/tree/main/Maintenance%20Guide/Recovery%20Guide) for more details. 
 
