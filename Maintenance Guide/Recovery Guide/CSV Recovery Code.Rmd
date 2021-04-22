@@ -1,0 +1,70 @@
+---
+title: "Recovery CSV Guide"
+author: "Cian Stryker"
+date: "4/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Include these packages to run the rest of the code. 
+
+library(readxl)
+library(openxlsx)
+library(readr)
+library(tidyr)
+library(tidyverse)
+```
+
+
+```{r Cleaning the Data, warning=FALSE}
+
+# Assuming you have downloaded the csv data file and placed
+# it within your working directory (within the "Recovery Guide"
+# file if you just downloaded the whole repo from Github), you
+# can run the following code to pull that csv file into R 
+
+Data <- read_csv("export.csv", col_types = cols(
+                                .default = col_logical(),
+                                `Dublin Core:Title` = col_character(),
+                                `Dublin Core:Description` = col_character(),
+                                `Dublin Core:Creator` = col_character(),
+                                `Dublin Core:Date` = col_double(),
+                                `Dublin Core:Language` = col_character(),
+                                `Item Type Metadata:Local URL` = col_character(),
+                                tags = col_character(),
+                                file = col_character(),
+                                itemType = col_character(),
+                                public = col_double(),
+                                featured = col_double()
+                              )
+)
+
+# Now that you have the csv file in R, we can start reorganizing it. 
+# Step one, just grab the relevant columns that we use for CASPIANA.
+
+# Step two, create a non html url column by using the separate command
+# twice, before removing the now unecessary "pre" column. 
+
+Data_2 <- Data %>%
+  select(`Dublin Core:Title`, `Dublin Core:Description`, `Dublin Core:Creator`,
+         `Dublin Core:Date`, `Dublin Core:Language`, tags,
+         `Item Type Metadata:Local URL`, file) %>%
+  separate(`Item Type Metadata:Local URL`, into = c("pre", "post"), sep = '<a href="') %>%
+  separate(post, into = ("URL"), sep = '"') %>%
+  select(!pre)
+
+```
+
+```{r Export as Excel}
+
+# Finally, you can now export this as an excel file. In excel, 
+# you should redo the formatting I had in the original version 
+# to create an "Embedded Links" column that has each row's titles 
+# automatically embedded with its URL. 
+
+write.xlsx(Data_2, "Caspiana_Omeka_Version_Recovery.xlsx")
+
+```
+
